@@ -1,0 +1,515 @@
+.px{
+    margin-left: 60px;
+    margin-top: 25px;
+}
+.opa{
+
+    text-align: left;
+    margin-top: 300px;
+   margin-left: 200px;
+   margin-top: -45px;
+}
+.opa li a{
+    top: 300px;
+    left: 400px;
+    color: black;
+    text-decoration: none;
+
+
+}
+.opa li{
+    list-style: none;
+    display: inline-block;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+    top: 300px;
+    left: 400px; 
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+.nan{
+    text-align: right;
+    margin-top: -45px;
+    margin-right: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icon{
+    font-size: 20px;
+    text-decoration: none;
+}
+.vid{
+    text-decoration:none;
+    line-height: 15px;
+    position: relative;
+    max-width:2000px;
+    text-align: center;
+    margin-top:40px ;
+}
+.ww{
+    text-align: center;
+    margin-top: 1px;
+    margin-right: 20px;
+    
+}
+.overlayText{
+    position: absolute;
+    top: 310px;
+    left: 180px;
+    z-index: 1;
+}
+#topText{
+    color: black;
+    font-size: 38px;
+    align-self:center;
+    font-family: arial,sans-serif;
+    
+}
+.lin {
+    color: black;
+    top: 100px;
+    left: 40px;
+    text-indent: initial;
+    display: inline-block;
+    position: absolute;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.kin{
+    text-decoration: none;
+text-align: center;
+width: fit-content;
+color: rgb(255, 255, 255); /* Change the text color to red */
+display: inline-block;
+padding: 9px 17px; /* Adjust padding to control the size of the square */
+text-decoration: none;
+border-radius: 50px; /* Adjust this value to control the roundness of the corners */
+background-color: #000000; /* Background color of the square */
+top:90px ;
+left:140px ;
+position: absolute;
+font-family: Arial,sans-serif;
+font-size: 14px;
+}
+.newNext{
+    position: absolute;
+    top: 310px;
+    left: 1100px;
+    z-index: 1;
+    font-size: 39px;
+    font-family: arial,sans-serif;
+}
+.topNext{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 39px;
+    align-self: center;
+    color: black;
+}
+.nil{
+    color: #000000;
+    top: 100px;
+    left: 50px;
+    position: absolute;
+    font-size: 14px;
+}
+.nik{
+    text-decoration: none;
+    text-align: center;
+    width: fit-content;
+    color: rgb(255, 255, 255); /* Change the text color to red */
+    display: inline-block;
+    padding: 9px 17px; /* Adjust padding to control the size of the square */
+    text-decoration: none;
+    border-radius: 50px; /* Adjust this value to control the roundness of the corners */
+    background-color: #000000; /* Background color of the square */
+    top:90px ;
+    left:155px ;
+    position: absolute;
+    font-family: Arial,sans-serif;
+    font-size: 14px;
+
+}
+.iom{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 39px;
+
+}
+.wer{
+    list-style: none;
+    text-align: center;
+
+}
+.wer li{
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.lip{
+    text-decoration: underline;
+}
+.wer a{
+    color: #000000;
+    text-decoration: solid;
+    word-spacing: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.yam{
+    display: inline-block;
+    position: absolute;
+    /* height: auto; */
+    left: 60px;
+    overflow: hidden;
+    border-radius: 15px;
+    transition: 0.3s;
+    background-color: rgb(244, 244,244);
+
+}    
+
+.yam:hover img{
+    transform: scale(1.02);
+}
+  
+.rr{
+    margin-top: -160px ;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+}
+
+/* .uu{
+    border-radius: 4%;
+    left: 60px; */
+
+.ii{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+
+}
+.da{ 
+    position: absolute;
+    background-color: rgb(244, 244, 244);
+    box-sizing: border-box;
+    /* margin-top:20px ; */
+    /* margin-right:500px ; */
+    left: 770px;
+    border-radius: 4%;
+    width: 300px;
+    height: 300px;
+
+}
+.da:hover img{
+    transform: scale(1.2);
+}
+.om{
+    text-decoration: none;
+    text-align: center;
+    width: fit-content;
+    color: rgb(255, 255, 255); /* Change the text color to red */
+    display: inline-block;
+    padding: 9px 17px; /* Adjust padding to control the size of the square */
+    text-decoration: none;
+    border-radius: 50px; /* Adjust this value to control the roundness of the corners */
+    background-color: #000000; /* Background color of the square */
+    top:225px ;
+    left:105px ;
+    position: absolute;
+    font-family: Arial,sans-serif;
+    font-size: 14px;
+    opacity: 0;
+    
+}
+.da:hover .om{
+    transform: scale(1.2);
+    opacity: 1;
+
+}
+.da:hover .pop{
+    opacity: 0;
+}
+.mn{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    margin-left: 70px;
+    margin-top:30px ;
+    transition: 0.3s;
+
+}
+.para{
+    margin-left: -5px;
+    margin-top: 5px;
+    overflow: visible;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
+.pop{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 10px;
+    color: rgb(102, 97, 97);
+    opacity: 1;
+
+}
+.na{
+    position: absolute;
+    background-color: rgb(244, 244, 244);
+    box-sizing: border-box;
+    /* margin-top:20px ; */
+    /* margin-right:500px ; */
+    left: 1095px;
+    border-radius: 4%;
+    width: 300px;
+    height: 300px;
+
+}
+.so{
+    transition: 0.3s;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    margin-left: 70px;
+    margin-top:30px ;
+
+}
+.two{
+    margin-left: -5px;
+    margin-top: 5px;
+    overflow: visible;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
+.os{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 10px;
+    color: rgb(102, 97, 97);
+}
+.uf{
+    position: absolute;
+    background-color: rgb(244, 244, 244);
+    box-sizing: border-box;
+    left: 770px;
+    top: 1215px;
+    border-radius: 4%;
+    width: 300px;
+    height: 300px;
+}
+.ho{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    margin-left: 70px;
+    margin-top:30px ;
+    transition: 0.3s;
+
+}
+.mere{
+    margin-left: -5px;
+    margin-top: 5px;
+    overflow: visible;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
+.tu{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 10px;
+    color: rgb(102, 97, 97);
+}
+.ter{
+    position: absolute;
+    background-color: rgb(244, 244, 244);
+    box-sizing: border-box;
+    left: 1095px;
+    top: 1215px;
+    border-radius: 4%;
+    width: 300px;
+    height: 300px;
+}
+.howa{
+    transition: 0.3s;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    margin-left: 70px;
+    margin-top:30px 
+    
+}
+.rq{
+    margin-left: -5px;
+    margin-top: 5px;
+    overflow: visible;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
+.sp{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 10px;
+    color: rgb(102, 97, 97);
+}
+.mus{
+    background-image: url("https://images.samsung.com/is/image/samsung/assets/pk/2307/home/default-HOME_Q5_MX-KV_1440X810_pc.jpg?$1440_810_JPG$");
+    width: 1500px;
+    height: 750px;
+    position: absolute;
+    margin-top: 650px;
+}
+.pp{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 38px;
+}
+.pp:hover{
+    text-decoration: underline 3px;
+}
+.mac li {
+    list-style: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin-left: 105px;
+    top: 300px;
+    left: 600px; 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: inline-block;
+    word-spacing: -5px;
+    margin-top: -10px;
+}   
+.bv{
+    text-decoration: underline 1.5px;
+    color: #000000;
+}
+.overlaytday{
+    position: absolute;
+    top: 2150px;
+    left: 600px;
+    z-index: 1;
+    font-size: 39px;
+    font-family: arial,sans-serif;
+}
+#toptday{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    align-self: center;
+    color: black;
+}
+.ker{
+    color: #000000;
+    top: 120px;
+    left: 50px;
+    position: absolute;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+.kar{
+    text-decoration: none;
+    text-align: center;
+    width: fit-content;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    padding:9px 17px ;
+    text-decoration: none;
+    border-radius: 50px;
+    background-color: #000000;
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    top: 110px;
+    left: 150px;
+
+}
+.overlaysak{
+    position: absolute;
+    /* top: 2300px;
+    left: 430px;
+    z-index: 1; */
+    font-size: 38px;
+    font-family: arial,sans-serif;
+    
+}
+#topsak{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+    align-self: center;
+    color: black;
+    top: 1400px;
+    left: 530px;
+    z-index: 1;
+    word-spacing: 4px;
+}
+#topsak:hover {
+    text-decoration: underline;
+}
+.pk{
+    position: absolute;
+    text-align: left;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    top: 1570px;
+    right: -1350px;
+    /* margin-right:40px ; */
+    /* margin-top: 2000px; */
+}
+.oky{
+    position: absolute;
+    text-align: left;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    top: 1690px;
+    right: -1250px;
+}
+.hsy{
+    position: absolute;
+    text-align: left;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    top: 1800px;
+    right: -1330px;
+}
+.num{
+    position: absolute;
+    top: 1570px;
+    right: -745px;
+    font-size: 24px;
+}
+.ytr{
+    background-image: url("https://images.samsung.com/is/image/samsung/assets/pk/p6_gro2/p6_initial_explore_detail/entertainment/how-hdr-changes-the-way-you-game/vd0001_home-explore_banner_pc_684x684.jpg?$684_684_PNG$");
+    width: 685px;
+    height: 650px;
+    position: absolute;
+    margin-top: 1470px;
+    border-radius: 4%;
+
+}
+.ntr{
+    position: absolute;
+    text-align: left;
+    font-size: 12px;
+    font-family: Arial, Helvetica,sans-serif;
+    top:3150px ;
+    left:100px ;
+    color: #808080;
+    font-stretch: 100%;
+    line-height: 15.96px;
+}
+.uy{
+    margin-top: 2250px;
+    color: #808080;
+    text-align: center;
+    max-width: 1450px;
+}
+.thw{
+    top: 3000px;
+    margin-top: 800px;
+    text-align: center;
+}
